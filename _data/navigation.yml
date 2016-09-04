@@ -1,7 +1,30 @@
 # main links links
 main:
-  - title: "Sample Navigation Link"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
+  - title: "---Getting Started---"
+    url: /_pages/gettingstarted
 
-  - title: "Sample Navigation Link 2"
+  - title: "   Hardware   "
     url: /
+
+  - title: "   Software   "
+    url: /
+
+  - title: "   About   "
+    url: /
+
+  - title: "   Store   "
+    url: http://makerstorage.com
+
+gs:
+  - title: Getting Started
+    children:
+      - title: "What's SchoolBus ?"
+        url: /_pages/gs/whatschoolbus
+      - title: "Who needs SchoolBus ?"
+        url: /_pages/gs/whoneedsschoolbus
+      - title: "Our Mission"
+        url: /_pages/gs/ourmission
+      - title: "Let's Do It!"
+        url: /_pages/gs/letsdoit
+      - title: "Wire up Your Creation"
+        url: /_pages/gs/wireupyourcreation
