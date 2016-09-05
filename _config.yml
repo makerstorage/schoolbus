@@ -11,7 +11,7 @@ title                    : "SchoolBus"
 title_separator          : "-"
 name                     : "Nuri Erginer"
 description              : "I2C plug and play maker circuit boards. This is site description nuri."
-url                      : #http://127.0.0.1:4000 
+url                      : https://jekyll-nerginer.c9users.io #http://127.0.0.1:4000 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # "makerstorage/schoolbus"GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

@@ -4,7 +4,7 @@ main:
     url: /_pages/gettingstarted
 
   - title: "   Hardware   "
-    url: /
+    url: /_pages/hardware
 
   - title: "   Software   "
     url: /
@@ -24,6 +24,19 @@ gs:
         url: /_pages/gs/whoneedsschoolbus
       - title: "Our Mission"
         url: /_pages/gs/ourmission
+      - title: "Let's Do It!"
+        url: /_pages/gs/letsdoit
+      - title: "Wire up Your Creation"
+        url: /_pages/gs/wireupyourcreation
+hw:
+  - title: Boards
+    children:
+      - title: "GPIO Board"
+        url: /_pages/hw/gpio
+      - title: "Power Board"
+        url: /_pages/hw/powerboard
+      - title: "Sensor Board"
+        url: /_pages/hw/sensorboard
       - title: "Let's Do It!"
         url: /_pages/gs/letsdoit
       - title: "Wire up Your Creation"
